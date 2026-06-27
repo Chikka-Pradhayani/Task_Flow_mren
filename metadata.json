@@ -1,0 +1,6 @@
+{
+  "name": "Task Flow",
+  "description": "A software development project tracking system with a Kanban board, detailed user and task CRUD interfaces, and auto-generated task history logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
