@@ -84,21 +84,6 @@ The project has been carefully consolidated to follow a minimalist yet highly pr
 ├── tsconfig.json            # TypeScript build presets
 ├── vite.config.ts           # Vite asset assembler
 └── README.md                # Comprehensive project documentation
-```
-
----
-
-## 🔒 Environment Variables
-
-Configure these settings inside a `.env` file at the root folder:
-
-```env
-# MongoDB Atlas Database URI (Optional - fallback to local JSON DB if omitted)
-MONGODB_URI="mongodb+srv://<username>:<password>@cluster0.example.com/project_db"
-
-# Custom Security Access Key (Optional - uses college-assignment-default-key if omitted)
-API_KEY="my-custom-student-access-token"
-```
 
 ---
 
